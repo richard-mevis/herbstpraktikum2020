@@ -1,0 +1,7 @@
+name: herbstpraktikum-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
